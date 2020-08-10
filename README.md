@@ -1,2 +1,3 @@
-# remove-duplicatefiles
-PowerShell library to remove duplicated files on a local path 
+# FileUtil library
+
+The version of the file preserved would be the one with the older creation time.
